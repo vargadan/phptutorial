@@ -27,5 +27,5 @@ INSERT INTO browser VALUES(4, 'Opera', '43');
 INSERT INTO browser VALUES(5, 'Safari', '11');
 
 INSERT INTO user_info VALUE(1, 'guest', 'N/A');
-INSERT INTO user_info VALUE(2, 'joe', '1111-2222-3333-4444');
-INSERT INTO user_info VALUE(3, 'doris', '1234-5678-8765-4321');
+INSERT INTO user_info VALUE(2, 'joe', '1111222233334444');
+INSERT INTO user_info VALUE(3, 'doris', '1234567887654321');
